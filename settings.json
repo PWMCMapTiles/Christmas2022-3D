@@ -1,0 +1,17 @@
+{
+  "version": "3.7",
+  "useCookies": true,
+  "enableFreeFlight": true,
+  "resolutionDefault": 0.5,
+  "minZoomDistance": 2,
+  "maxZoomDistance": 1000000,
+  "hiresSliderMax": 1000,
+  "hiresSliderDefault": 120,
+  "hiresSliderMin": 0,
+  "lowresSliderMax": 2000,
+  "lowresSliderDefault": 500,
+  "lowresSliderMin": 200,
+  "maps": [
+    "xmas22"
+  ]
+}
